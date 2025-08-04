@@ -10,9 +10,9 @@ this project analyzes startup funding data to uncover insights about funding tre
 - Jupyter Notebook
 
   ## Files
-  `startup_analysis.ipynb`: Main data analysis code
-  `startup_funding.csv`: Main dataset
-  `README.md`: This report
+ - `startup_analysis.ipynb`: Main data analysis code
+ - `startup_funding.csv`: Main dataset
+ - `README.md`: This report
 
   ## Key Insights
   - Most funded sector: Ed-Technology
